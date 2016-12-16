@@ -1,0 +1,8 @@
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\monteFSharp.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\monteFSharp.XML
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\monteFSharp.exe
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\monteFSharp.pdb
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\FSharp.Core.dll
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\bin\Debug\FSharp.Core.xml
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\obj\Debug\monteFSharp.exe
+c:\users\michael\documents\visual studio 2015\Projects\monteFSharp\monteFSharp\obj\Debug\monteFSharp.pdb
