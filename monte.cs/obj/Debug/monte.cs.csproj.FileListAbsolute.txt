@@ -1,0 +1,5 @@
+c:\users\macair\documents\visual studio 14\Projects\monte.cs\monte.cs\bin\Debug\monte.cs.exe.config
+c:\users\macair\documents\visual studio 14\Projects\monte.cs\monte.cs\bin\Debug\monte.cs.exe
+c:\users\macair\documents\visual studio 14\Projects\monte.cs\monte.cs\bin\Debug\monte.cs.pdb
+c:\users\macair\documents\visual studio 14\Projects\monte.cs\monte.cs\obj\Debug\monte.cs.exe
+c:\users\macair\documents\visual studio 14\Projects\monte.cs\monte.cs\obj\Debug\monte.cs.pdb
