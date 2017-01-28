@@ -10,3 +10,6 @@ C:\Users\michael\Documents\GitHub\Rubberduck\monteCS\monte.cs\obj\Debug\monte.cs
 C:\Users\michael\Documents\GitHub\Rubberduck\monteCS\monte.cs\obj\Debug\monte.cs.exe
 C:\Users\michael\Documents\GitHub\Rubberduck\monteCS\monte.cs\obj\Debug\monte.cs.pdb
 C:\Users\michael\Documents\GitHub\Rubberduck\monteCS\monte.cs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\macair\Source\Repos\monteCS\monte.cs\bin\Debug\monte.cs.exe.config
+C:\Users\macair\Source\Repos\monteCS\monte.cs\obj\Debug\monte.cs.exe
+C:\Users\macair\Source\Repos\monteCS\monte.cs\obj\Debug\monte.cs.pdb
