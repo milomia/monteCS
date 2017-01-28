@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace monte.cs
-{
-    class monte
+    class Monte
     { 
-        double gaussian_box_muller()
+    
+        public double gaussian_box_muller()
         {
         double x = 0.0;
         double y = 0.0;
@@ -32,6 +31,7 @@ namespace monte.cs
 
         return x * Math.Sqrt(-2 * Math.Log(euclid_sq) / euclid_sq);
     }
+    
 
     // Pricing a European vanilla call option with a Monte Carlo method
     public double GetCallPrice(ref double num_sims, ref double S, ref double K, ref double r, ref double v, ref double T)
@@ -50,6 +50,7 @@ namespace monte.cs
         return (payoff_sum / num_sims) * Math.Exp(-r * T);
 
     }
+
 
     // Pricing a European vanilla puy option with a Monte Carlo method
     public double GetPutPrice(ref double num_sims, ref double S, ref double K, ref double r, ref double v, ref double T)
@@ -75,14 +76,14 @@ namespace monte.cs
         static void Main(string[] args)
         {
        
-                double num_sims = 10000; // Number of simulated asset paths
+                double num_sims = 1000000; // Number of simulated asset paths
                 double S = 100.0; // Option price
                 double K = 100.0; // Strike price
                 double r = 0.05;  // Risk free rate (5%)
                 double v = 0.2;   // volatility of the underlying (20%)
                 double T = 1.0;   // One year until expiry
 
-                monte mc = new monte();
+                Monte mc = new Monte();
                 
                 double call = mc.GetCallPrice(ref num_sims, ref S, ref K, ref r, ref v, ref T);
                 double put = mc.GetPutPrice(ref num_sims, ref S, ref K, ref r, ref v, ref T);
@@ -104,5 +105,5 @@ namespace monte.cs
             }
         }
     }
-}
+
 
