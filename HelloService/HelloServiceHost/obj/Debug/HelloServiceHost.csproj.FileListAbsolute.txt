@@ -1,0 +1,8 @@
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\michael\Documents\Visual Studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

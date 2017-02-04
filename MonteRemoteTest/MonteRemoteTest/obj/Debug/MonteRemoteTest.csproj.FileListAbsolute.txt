@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2015\Projects\MonteRemoteTest\MonteRemoteTest\bin\Debug\MonteRemoteTest.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\MonteRemoteTest\MonteRemoteTest\bin\Debug\MonteRemoteTest.exe
+c:\users\michael\documents\visual studio 2015\Projects\MonteRemoteTest\MonteRemoteTest\bin\Debug\MonteRemoteTest.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MonteRemoteTest\MonteRemoteTest\obj\Debug\MonteRemoteTest.exe
+c:\users\michael\documents\visual studio 2015\Projects\MonteRemoteTest\MonteRemoteTest\obj\Debug\MonteRemoteTest.pdb

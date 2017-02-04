@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\bin\Debug\IEnumerable.pdb
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\obj\Debug\IEnumerable.exe
+c:\users\michael\documents\visual studio 2015\Projects\IEnumerable\IEnumerable\obj\Debug\IEnumerable.pdb

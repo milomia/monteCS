@@ -1,0 +1,90 @@
+!SESSION 2016-09-21 16:47:31.997 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-4fc34b79-9fd5-464e-96f5-4240376febe9
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-4fc34b79-9fd5-464e-96f5-4240376febe9
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-09-21 16:47:32.636
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-06 11:08:36.341 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-b86e691c-06ce-4f91-ad53-b5ae574c41f7
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-b86e691c-06ce-4f91-ad53-b5ae574c41f7
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-06 11:08:40.480
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-06 11:29:35.550 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-3a50fbb8-03bd-41d7-baad-d7f281048093
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-3a50fbb8-03bd-41d7-baad-d7f281048093
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-06 11:29:36.173
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-07 08:16:30.867 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-3f269045-7a72-4673-bf29-4dbfb3b42df2
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-3f269045-7a72-4673-bf29-4dbfb3b42df2
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-07 08:16:39.155
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-07 12:30:48.245 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-03d937af-f764-4b21-8982-c050e99f6087
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-03d937af-f764-4b21-8982-c050e99f6087
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-07 12:30:52.472
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-07 14:02:01.418 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-2c725e77-b8a2-4c26-8960-b26585e4c188
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-2c725e77-b8a2-4c26-8960-b26585e4c188
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-07 14:02:08.237
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-07 14:15:43.398 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-63518a73-15b5-4f2a-8873-1c7ebbffabf0
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-63518a73-15b5-4f2a-8873-1c7ebbffabf0
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-07 14:15:44.079
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-11-09 11:12:33.767 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-60287579-4afd-4e5a-b504-925d6287b489
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-60287579-4afd-4e5a-b504-925d6287b489
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-09 11:12:37.541
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-12-31 08:49:51.386 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application javapkgsrv.start javapkgsrv-8ce093c3-5ddf-4812-9610-d6b8ca1d223d
+Command-line arguments:  -consoleLog -console -application javapkgsrv.start -data c:\users\michael\documents\visual studio 2015\projects\mekanismmodsample1\mekanismmodsample1\eclipse javapkgsrv-8ce093c3-5ddf-4812-9610-d6b8ca1d223d
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-12-31 08:50:07.737
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

@@ -1,0 +1,4 @@
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\TradeType\bin\Debug\TradeType.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\TradeType\bin\Debug\TradeType.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\TradeType\obj\Debug\TradeType.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\TradeType\obj\Debug\TradeType.pdb

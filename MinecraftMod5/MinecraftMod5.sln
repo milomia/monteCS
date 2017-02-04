@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "MinecraftMod5", "MinecraftMod5\MinecraftMod5.javaproj", "{D92F8D77-77DD-4BA9-BFFE-21C168B35E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugClient|Any CPU = DebugClient|Any CPU
+		DebugServer|Any CPU = DebugServer|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92F8D77-77DD-4BA9-BFFE-21C168B35E7F}.DebugClient|Any CPU.ActiveCfg = DebugClient|Any CPU
+		{D92F8D77-77DD-4BA9-BFFE-21C168B35E7F}.DebugClient|Any CPU.Build.0 = DebugClient|Any CPU
+		{D92F8D77-77DD-4BA9-BFFE-21C168B35E7F}.DebugServer|Any CPU.ActiveCfg = DebugServer|Any CPU
+		{D92F8D77-77DD-4BA9-BFFE-21C168B35E7F}.DebugServer|Any CPU.Build.0 = DebugServer|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

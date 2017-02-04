@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+c:\users\michael\documents\visual studio 2015\Projects\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb

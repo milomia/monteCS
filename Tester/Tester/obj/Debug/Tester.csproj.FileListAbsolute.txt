@@ -1,0 +1,8 @@
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tested.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tested.pdb
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.pdb

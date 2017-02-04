@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\bin\Debug\monteConsole.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\bin\Debug\monteConsole.exe
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\bin\Debug\monteConsole.pdb
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\obj\Debug\monteConsole.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\obj\Debug\monteConsole.exe
+c:\users\michael\documents\visual studio 2015\Projects\monteConsole\monteConsole\obj\Debug\monteConsole.pdb

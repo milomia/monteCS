@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2015\Projects\monte\monte\bin\Debug\monte.dll
+c:\users\michael\documents\visual studio 2015\Projects\monte\monte\bin\Debug\monte.pdb
+c:\users\michael\documents\visual studio 2015\Projects\monte\monte\obj\Debug\monte.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\monte\monte\obj\Debug\monte.dll
+c:\users\michael\documents\visual studio 2015\Projects\monte\monte\obj\Debug\monte.pdb

@@ -1,0 +1,7 @@
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tested\bin\Debug\Tested.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tested\bin\Debug\Tested.pdb
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tested\obj\Debug\TradeFactory.csprojResolveAssemblyReference.cache
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tested\obj\Debug\Tested.dll
+C:\Users\michael\documents\visual studio 2015\Projects\Tester\Tested\obj\Debug\Tested.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\Tested\bin\Debug\TradeType.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\Tester\Tested\bin\Debug\TradeType.pdb

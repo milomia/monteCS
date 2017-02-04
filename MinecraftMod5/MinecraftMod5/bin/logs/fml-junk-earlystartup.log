@@ -1,0 +1,30 @@
+[08:31:26] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart]
+[08:31:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[08:31:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[08:31:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[08:31:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[08:31:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:18:51] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart]
+[16:18:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:18:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:18:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:18:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:18:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:12] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart]
+[16:24:12] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:24:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:13] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:24:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:24:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:27:29] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart]
+[16:27:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:27:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:27:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:27:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:27:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:18] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart]
+[16:30:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:30:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[16:30:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:30:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker

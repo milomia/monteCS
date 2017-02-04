@@ -1,0 +1,45 @@
+[11:14:10] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart]
+[11:14:11] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.CodeChickenCorePlugin
+[11:14:11] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.DepLoader
+[11:14:11] [main/INFO] [GradleStart]: Found and added coremod: codechicken.nei.asm.NEICorePlugin
+[11:14:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[11:14:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:14:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:14:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:14:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:52:07] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart]
+[08:52:07] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.CodeChickenCorePlugin
+[08:52:07] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.DepLoader
+[08:52:07] [main/INFO] [GradleStart]: Found and added coremod: codechicken.nei.asm.NEICorePlugin
+[08:52:07] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[08:52:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:52:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:52:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[08:52:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:56:14] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart]
+[08:56:15] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.CodeChickenCorePlugin
+[08:56:15] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.DepLoader
+[08:56:16] [main/INFO] [GradleStart]: Found and added coremod: codechicken.nei.asm.NEICorePlugin
+[08:56:16] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[08:56:16] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:56:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:56:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[08:56:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[09:05:51] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart]
+[09:05:51] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.CodeChickenCorePlugin
+[09:05:51] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.DepLoader
+[09:05:51] [main/INFO] [GradleStart]: Found and added coremod: codechicken.nei.asm.NEICorePlugin
+[09:05:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[09:05:52] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:05:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:05:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[09:05:52] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[09:08:33] [main/INFO] [GradleStart]: Extra: [-cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart]
+[09:08:33] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.CodeChickenCorePlugin
+[09:08:33] [main/INFO] [GradleStart]: Found and added coremod: codechicken.core.launch.DepLoader
+[09:08:33] [main/INFO] [GradleStart]: Found and added coremod: codechicken.nei.asm.NEICorePlugin
+[09:08:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/michael/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, -cp, C:\Users\michael\Documents\Visual Studio 2015\Projects\MekanismModSample1\MekanismModSample1\bin\mods\MekanismModSample1.jar, GradleStart, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[09:08:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:08:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:08:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[09:08:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

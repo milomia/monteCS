@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+c:\users\michael\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(66): warning C4101: 'cpFf': unreferenced local variable
+c:\users\michael\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(61): warning C4101: 'cpp': unreferenced local variable
+c:\users\michael\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(64): warning C4101: 'CFp': unreferenced local variable
+c:\users\michael\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(62): warning C4101: 'cpf': unreferenced local variable
+c:\users\michael\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(60): warning C4101: 'cfp': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\michael\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\michael\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

@@ -1,0 +1,3 @@
+c:\users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\bin\mods\MinecraftMod5.jar
+c:\users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\obj\DebugClient\com\example\examplemod\ExampleMod.class
+c:\users\michael\documents\visual studio 2015\Projects\MinecraftMod5\MinecraftMod5\obj\DebugClient\MinecraftMod5.jar
