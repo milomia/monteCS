@@ -1,0 +1,5 @@
+C:\Users\michael\Documents\Visual Studio 2015\Projects\CMonte\CMonte\bin\Debug\CMonte-AddIn.dna
+C:\Users\michael\Documents\Visual Studio 2015\Projects\CMonte\CMonte\bin\Debug\CMonte.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\CMonte\CMonte\bin\Debug\CMonte.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\CMonte\CMonte\obj\Debug\CMonte.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\CMonte\CMonte\obj\Debug\CMonte.pdb
