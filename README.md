@@ -1,2 +1,1 @@
-"# monteCS" 
-"# monteCS" 
+Monte carlo simulator in C#
